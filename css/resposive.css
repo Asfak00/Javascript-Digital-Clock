@@ -1,0 +1,23 @@
+@media screen and (max-width: 900px) {
+  .title {
+    font-size: 45px;
+  }
+
+  .container {
+    width: 80%;
+  }
+
+  span {
+    font-size: 15px;
+    margin-top: 1.3rem;
+    margin-left: 0.4rem;
+  }
+
+  .time {
+    font-size: 35px;
+  }
+
+  .date {
+    font-size: 15px;
+  }
+}
